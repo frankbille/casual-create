@@ -1,0 +1,13 @@
+name = "Casual Create"
+author = "amazing_fungus"
+version = "forge-v1.0.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "edabc147a804a67ff12c10176b7e20297c2b05cbf56f65c3d0a51b46d776799d"
+
+[versions]
+forge = "47.1.47"
+minecraft = "1.20.1"

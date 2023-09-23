@@ -1,0 +1,5 @@
+# Exclude exported Modrinth modpacks
+*.mrpack
+
+/.idea/
+*.DS_Store

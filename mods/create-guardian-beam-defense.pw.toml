@@ -1,0 +1,13 @@
+name = "Create Guardian Beam Defense"
+filename = "Create-Guardian-Beam-Defense-1.2.9b-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pwPEdvXO/versions/ZWLuTfp4/Create-Guardian-Beam-Defense-1.2.9b-1.20.1.jar"
+hash-format = "sha1"
+hash = "d10a747519cce456904949b4056b60b254b4a06a"
+
+[update]
+[update.modrinth]
+mod-id = "pwPEdvXO"
+version = "ZWLuTfp4"
