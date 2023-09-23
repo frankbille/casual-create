@@ -91,6 +91,11 @@ hash = "2be51a88a049d234dbdb1c3643d004b73885fa2a2433eefde0f8649b77e3db31"
 metafile = true
 
 [[files]]
+file = "mods/harvest-with-ease.pw.toml"
+hash = "6137d2c51ba76bbad6eda90980490d7bfb3f3428f7e34efb9aa529762b2033e7"
+metafile = true
+
+[[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "9bcec22992c500342375f258e4458626c07ddfe2f9a1bd3dc39624d2a337bbe5"
 metafile = true
