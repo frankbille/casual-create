@@ -12,12 +12,12 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "c167f0839937d906d901104c89df8da0abc6deae6dced34a800e98d476355343"
+hash = "21693570dd62ad5e53ab74e69012b427621291f258a66387f0da6a9d3819a41f"
 metafile = true
 
 [[files]]
 file = "mods/athena.pw.toml"
-hash = "2b4edecc8ef931390e61f700105c0e44f3c3b18d8d56df8efb8468a740232499"
+hash = "d923b6a71a0c4abe91cac75198a4874f9a3d51535d642512e9358747070380fa"
 metafile = true
 
 [[files]]
@@ -27,12 +27,12 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "15ff6d7e0f898b993a3376a2c23dd4c5684b68b09ef3e573c5b2c61dd5f746a0"
+hash = "b0119b17c7c9a075780d55dc87749942a835365db5578102d6250db8875e8267"
 metafile = true
 
 [[files]]
 file = "mods/catalogue.pw.toml"
-hash = "1f8bbe54ba05333f5e0ae8fb5707899efc94e8a66d91a0d5b1e26823ec021ee2"
+hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-guardian-beam-defense.pw.toml"
-hash = "a419b2b93a97f7d0f38f5a5e62a17d3ef3f6313bf1fda0fc9e84f4c58ba00bc3"
+hash = "3bee7723217a38c3697c3d837bb116d1caa0ba7067c0d4a91e1f35bb3e2c3a30"
 metafile = true
 
 [[files]]
@@ -52,12 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "845f5da2a11ed1f90377ea66a35a4fb17c7e1f058d4144295784e05046a80c75"
-metafile = true
-
-[[files]]
-file = "mods/createaddition.pw.toml"
-hash = "7bf48d5f88c58941a2e276f476df180dc6814c16a36a86cf02a1948b71604d5c"
+hash = "c84ceb8f2316b29510e79a5e89983bb224d9aead21f8dc5fcaae6e3bdc810b2e"
 metafile = true
 
 [[files]]
@@ -117,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "e57047afadd907f16527f9f5051d3480d550635d1ee767c2de2d98b40639f53f"
+hash = "c09ce5ac550e073a13d802f737315fb8df83cbc8aaf8647823cfe970c37dd11f"
 metafile = true
 
 [[files]]
@@ -147,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/mystical-agriculture.pw.toml"
-hash = "fb87890a71017b34edfad0deaba0c1f137fd59b5c4337cde165ec891b374b0e9"
+hash = "9d907c7b2b1d12db48fca8be3db10da27e314d4aa0ffa64454fa77bd444be900"
 metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "7a233669a931a7959711b83c9afd7784360aa9050b9e2c84d9ebed27981f38b6"
+hash = "4a68abb339f8993d6e5809fe0255752837176dff9a28c27b70dfd9da939bf410"
 metafile = true
 
 [[files]]
@@ -172,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "0e196378fd1f1739fdd8fad078f6e9aca930ac7c13fee7306066a4813332848d"
+hash = "ccefbc00ed1838907acb5ec379784f9a52a1141c880ef0282e9c079355876702"
 metafile = true
 
 [[files]]
@@ -182,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "2cc40f90565538ed48daa25af8b59240eebc50e9cc2788f4ef73dfa23e87d387"
+hash = "15903c74855e357c7224dc09a98265a9e2c16de36c50c442ea0a70cf67413b28"
 metafile = true
 
 [[files]]
